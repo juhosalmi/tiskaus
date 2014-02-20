@@ -1,0 +1,4 @@
+tiskaus
+=======
+
+Systeemidynaaminen tiskausmalli
