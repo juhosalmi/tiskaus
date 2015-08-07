@@ -1,4 +1,1 @@
-tiskaus
-=======
-
-Systeemidynaaminen tiskausmalli
+System dynamics model for a comminity kitchen dish washing
